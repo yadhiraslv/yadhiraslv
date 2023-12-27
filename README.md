@@ -1,4 +1,4 @@
-## Olá Mundo, Sou Yadhira, seja muito bem vindo!
+## Olá Mundo, me chamo Yadhira, seja muito bem vindo!
 Tenho 17 anos e estou estudando progrmação.
 
 ## Redes Sociais:
