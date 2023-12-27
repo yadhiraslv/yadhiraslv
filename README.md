@@ -1,5 +1,5 @@
 ## Olá Mundo, me chamo Yadhira, seja muito bem vindo!
-Tenho 17 anos e estou estudando progrmação.
+Tenho 17 anos e estou estudando programação.
 
 ## Redes Sociais:
 <div style="display: inline_block">
